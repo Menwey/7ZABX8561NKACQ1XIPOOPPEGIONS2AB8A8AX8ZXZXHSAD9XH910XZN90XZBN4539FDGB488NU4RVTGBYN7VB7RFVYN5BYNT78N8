@@ -1,1 +1,3 @@
-# BYPASSER FUCKING ANTICHEAT PEKORA
+# AntiRat
+
+Detecter a rat viruses, Automatic deleting rats
